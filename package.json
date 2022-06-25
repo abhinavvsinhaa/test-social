@@ -1,0 +1,28 @@
+{
+  "name": "test-social",
+  "version": "1.0.0",
+  "description": "Testing social platforms APIs like Twitter, Linkedin, Instagram, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abhinavvsinhaa/test-social.git"
+  },
+  "keywords": [
+    "Twitter",
+    "Linkedin",
+    "Instagram",
+    "test-social"
+  ],
+  "author": "Abhinav Sinha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abhinavvsinhaa/test-social/issues"
+  },
+  "homepage": "https://github.com/abhinavvsinhaa/test-social#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
